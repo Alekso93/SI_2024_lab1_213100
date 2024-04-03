@@ -1,0 +1,54 @@
+commit f91bbe914b95c52e042b383528100b4368469fe4
+Merge: a5d8338 014aa5b
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Wed Apr 3 13:57:16 2024 +0200
+
+    Resolve merge conflicts
+
+commit a5d833815a134e1d6e10565ca0639a7e4530fd0f
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 02:11:47 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit ed2364bf3a149d8635d72c9c5867d3fb745d84a3
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 02:00:54 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 014aa5bbb2b92c5532850428bde44d27e23174a8
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 02:11:47 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a1e6b69c80da033d534ed8a603d73a163f51b74b
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 02:07:26 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit e5ad9f9a43f0cee2045e0c9627c35d8f330a1625
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 02:00:54 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 247f3c5f6133f38c29c0009275a89dadef04d608
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 01:54:57 2024 +0200
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit 542638a5b6e0f94e3fbf29823e61d92cc6429cee
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 01:40:27 2024 +0200
+
+    Add starter code
+
+commit 45f95c66d1b7553ea0cc8a982022c71ba804892f
+Author: Alekso93 <aleksovskiandrej93@gmail.com>
+Date:   Mon Apr 1 01:18:13 2024 +0200
+
+    Initial commit
