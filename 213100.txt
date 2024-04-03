@@ -1,0 +1,25 @@
+		1-Lab SI
+1.Alekso93-my profile
+2.main-->master
+3.SI_2024_lab1_213100
+4.mkdir SI_2024_lab1_213100 ; cd SI_2024_lab1_213100; git init;
+5.git remote add origin https://github.com/Alekso93/SI_2024_lab1_213100
+6.nano README.md;git add README.md;git commit -m "Initial commit"
+7.git add SILab1Main.java SILab1_1.java SILab1_2.java
+8.git pull origin master
+9.git checkout -b bug1;git checkout -b bug2;git branch
+10.git checkout bug1
+11.git add SILab1_1.java;git commit -m "Fix wrong condition in filterOddLengthStrings"
+12.git checkout bug2
+13.git add SILab1_2.java;git commit -m "Fix wrong condition in makeBigStringFrom"
+14.git checkout bug1
+15.git add SILab1Main.java;git commit -m "Call method filterOddLengthStrings in main class"
+16.git checkout bug2
+17.git add SILab1Main.java;git commit -m "Call method makeBigStringFrom in main class"
+18.git push --all origin
+19.git checkout master
+20.git pull origin master;git merge bug1;nema konfilkti,Fast-Forward
+21.git push --all origin
+22.git checkout bug2
+23.git rebase master;git rebase --continue
+
