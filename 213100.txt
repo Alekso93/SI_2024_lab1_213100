@@ -22,4 +22,13 @@
 21.git push --all origin
 22.git checkout bug2
 23.git rebase master;git rebase --continue
-
+24.git checkout master
+25.git merge bug2
+26.git pull origin master;git pull origin bug1;git pull origin bug2 git push origin master;git push origin bug1
+27.git push origin bug2 --force
+28.git log > logs.txt;git add 213100.txt;git add 213100.txt;git commit -m "Final commit";
+29.git push origin master
+30.fork
+31.git clone https://github.com/Alekso93/SI_2024
+32.cd SI_2024;nano 213100.txt;git add 213100.txt;git commit -m "Add file"
+33.git pull https://github.com/stefanandonov/SI_2024 master
